@@ -3,5 +3,5 @@ layout: project
 title: Nut_Cracker
 description: Finding unknown dimensions of nut cracker given the load
 technologies: Mechanics
-image: https://github.com/Cornell-MAE-UG/sp26-portfolio-Paul-C-Lukwesa/blob/main/assets/images/nutcracker.jpg
+image: /assets/images/nutcracker.jpg
 ---
