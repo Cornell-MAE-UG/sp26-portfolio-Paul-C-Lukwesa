@@ -11,10 +11,10 @@ Problem Statement and Objective
 Given: required load to crack nut: 222.18 kg
 Grip strength: 40kg
 Size of nut: 2cm
-Find: Dimentions of nuteracker
-Aproach:
+Find: Dimensions of nutcracker
+Approach:
 	FBD
-	Moment Balance at the origin, nut cracker joint
+	Moment Balance at the origin, nutcracker joint
 	Determine length (L) ratio
 	Determine height (H) ratio
 Using the nutcracker joint as origin
