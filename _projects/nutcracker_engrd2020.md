@@ -31,11 +31,9 @@ $$
 &= 5.55
 \end{aligned}
 $$
-
+  
 Because of similar triangles,  
-$$
-\frac{l_c}{l_n} = \frac{H_c}{H_n} = 5.55 
-$$
+$\frac{l_c}{l_n} = \frac{H_c}{H_n} = 5.55$
 
 $$
 \begin{aligned}
