@@ -15,7 +15,7 @@ Find: Dimensions of nutcracker
 
 ## Nutcracker Design Calculations
 Approach:
-FBD
+FBD,
 Moment Balance at the origin, nutcracker joint
 Balance at the origin, nutcracker joint  
 Determine length (L) ratio  
