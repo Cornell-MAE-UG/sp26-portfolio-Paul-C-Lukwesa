@@ -2,7 +2,6 @@
 layout: project
 title: Nut_Cracker
 description: Finding unknown dimensions of nut cracker given the load
-technologies: Mechanics
 image: /assets/images/nutcracker.jpg
 ---
 
