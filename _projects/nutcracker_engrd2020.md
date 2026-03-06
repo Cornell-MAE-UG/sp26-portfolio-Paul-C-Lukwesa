@@ -38,5 +38,3 @@ H_c &= 5.55 H_n \\
 $$
 
 Looking at a generic nutcracker, $l_n \approx 4 \text{ cm}$, so $l_c = 22.22 \text{ cm}$
-
-CREDITS: Sln credit goes to ENGRD2020 Cornell University, Spring 2026
