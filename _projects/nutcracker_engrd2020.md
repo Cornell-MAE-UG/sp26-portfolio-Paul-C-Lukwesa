@@ -12,11 +12,11 @@ Given: required load to crack nut: 222.18 kg
 Grip strength: 40kg
 Size of nut: 2cm
 Find: Dimensions of nutcracker
-Approach:
-	FBD
-	Moment Balance at the origin, nutcracker joint
-## Nutcracker Design Calculations
 
+## Nutcracker Design Calculations
+Approach:
+FBD
+Moment Balance at the origin, nutcracker joint
 Balance at the origin, nutcracker joint  
 Determine length (L) ratio  
 Determine height (H) ratio  
@@ -33,7 +33,9 @@ $$
 $$
 
 Because of similar triangles,  
-$$ \frac{l_c}{l_n} = \frac{H_c}{H_n} = 5.55 $$
+$$
+\frac{l_c}{l_n} = \frac{H_c}{H_n} = 5.55 
+$$
 
 $$
 \begin{aligned}
@@ -44,6 +46,10 @@ H_c &= 5.55 H_n \\
 $$
 
 Looking at a generic nutcracker,  
-$$ l_n \approx 4 \text{ cm} $$  
+$$ 
+l_n \approx 4 \text{ cm}
+$$  
 so  
-$$ l_c = 22.22 \text{ cm} $$
+$$ 
+l_c = 22.22 \text{ cm} 
+$$
