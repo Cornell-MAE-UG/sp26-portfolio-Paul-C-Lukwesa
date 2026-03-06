@@ -15,26 +15,35 @@ Find: Dimensions of nutcracker
 Approach:
 	FBD
 	Moment Balance at the origin, nutcracker joint
-	Determine length (L) ratio
-	Determine height (H) ratio
-Using the nutcracker joint as origin
+## Nutcracker Design Calculations
+
+Balance at the origin, nutcracker joint  
+Determine length (L) ratio  
+Determine height (H) ratio  
+
+Using the nutcracker joint as origin:
+
 $$
-\begin{align}
+\begin{aligned}
 \sum M &= l_c \times F_i - l_n \times F_n = 0 \\
 \frac{l_c}{l_n} &= \frac{F_n}{F_i} \\
 &= \frac{22.18 \text{ kg}}{40 \text{ kg}} \\
 &= 5.55
-\end{align}
+\end{aligned}
 $$
 
-Because of similar triangles, $\frac{l_c}{l_n} = \frac{H_c}{H_n} = 5.55$
+Because of similar triangles,  
+$$ \frac{l_c}{l_n} = \frac{H_c}{H_n} = 5.55 $$
 
 $$
-\begin{align}
+\begin{aligned}
 H_c &= 5.55 H_n \\
 &= 5.55 \cdot 2 \text{ cm} \\
 &= 11.11 \text{ cm}
-\end{align}
+\end{aligned}
 $$
 
-Looking at a generic nutcracker, $l_n \approx 4 \text{ cm}$, so $l_c = 22.22 \text{ cm}$
+Looking at a generic nutcracker,  
+$$ l_n \approx 4 \text{ cm} $$  
+so  
+$$ l_c = 22.22 \text{ cm} $$
