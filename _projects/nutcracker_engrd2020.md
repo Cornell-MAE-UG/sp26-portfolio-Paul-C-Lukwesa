@@ -16,8 +16,6 @@ Approach:
 FBD,
 ![Nutcracker-1 2](https://github.com/user-attachments/assets/706a519c-b15b-400d-85e7-d9cf54a7d0a5)
 
-
-
 Moment Balance at the origin, nutcracker joint
 Balance at the origin, nutcracker joint  
 Determine length (L) ratio  
