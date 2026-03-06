@@ -18,9 +18,9 @@ Approach:
 	Determine length (L) ratio
 	Determine height (H) ratio
 Using the nutcracker joint as origin
-■$$(∑▒  M=&l_c×F_i-l_n×F_n=0@l_c/l_n & =F_n/F_i @& =(22.18" " kg)/(40" " kg)@& =5.55)$$
+$$(∑▒  M=&l_c×F_i-l_n×F_n=0@l_c/l_n & =F_n/F_i @& =(22.18" " kg)/(40" " kg)@& =5.55)$$
 Because of similar triangles, $$l_c/l_n =H_c/H_n =5.55$$
-■$$(H_c& =5.55H_n@& =5.55⋅2" " cm@& =11.11" " cm)$$
+$$(H_c& =5.55H_n@& =5.55⋅2" " cm@& =11.11" " cm)$$
 looking at a generic nutcracker, $$l_n≈4" " cm, so l_c=22.22" " cm$$
 
 CREDITS: Sln credit goes to ENGRD2020 Cornell University, Spring 2026
