@@ -13,9 +13,10 @@ Grip strength: 40kg
 Size of nut: 2cm
 Find: Dimensions of nutcracker
 
-## Nutcracker Design Calculations
 Approach:
 FBD,
+![nutcracker](https://github.com/user-attachments/assets/f82d3abb-a939-4818-9319-33fb7f1f3ef6)
+
 Moment Balance at the origin, nutcracker joint
 Balance at the origin, nutcracker joint  
 Determine length (L) ratio  
