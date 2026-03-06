@@ -14,7 +14,8 @@ Find: Dimensions of nutcracker
 
 Approach:
 FBD,
-![Nutcracker-1](https://github.com/user-attachments/assets/965bd35f-ab45-4113-a20b-36464a23028f)
+![Nutcracker-1 2](https://github.com/user-attachments/assets/706a519c-b15b-400d-85e7-d9cf54a7d0a5)
+
 
 
 Moment Balance at the origin, nutcracker joint
