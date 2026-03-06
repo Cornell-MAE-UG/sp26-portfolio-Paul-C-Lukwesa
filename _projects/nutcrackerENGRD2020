@@ -7,7 +7,21 @@ image: /assets/images/nutcracker.jpg
 ---
 
 
-In 2021, NASA asked me to design a spaceship...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+Problem Statement and Objective
+- Design problem: Imagine you have a macadamia nut that you want to crack open by hand using a simple lever nut cracker.
+Given: required load to crack nut: 222.18 kg
+Grip strength: 40kg
+Size of nut: 2cm
+Find: Dimensions of nutcracker
+Approach:
+	FBD
+	Moment Balance at the origin, nutcracker joint
+	Determine length (L) ratio
+	Determine height (H) ratio
+Using the nutcracker joint as origin
+■(∑▒  M=&l_c×F_i-l_n×F_n=0@l_c/l_n & =F_n/F_i @& =(22.18" " kg)/(40" " kg)@& =5.55)
+Because of similar triangles, l_c/l_n =H_c/H_n =5.55
+■(H_c& =5.55H_n@& =5.55⋅2" " cm@& =11.11" " cm)
+looking at a generic nutcracker, l_n≈4" " cm, so l_c=22.22" " cm
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
-
+CREDITS: Sln credit goes to ENGRD2020 Cornell University, Spring 2026
