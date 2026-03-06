@@ -42,12 +42,8 @@ H_c &= 5.55 H_n \\
 &= 11.11 \text{ cm}
 \end{aligned}
 $$
-
+ 
 Looking at a generic nutcracker,  
-$$ 
-l_n \approx 4 \text{ cm}
-$$  
+$l_n \approx 4 \text{ cm}$  
 so  
-$$ 
-l_c = 22.22 \text{ cm} 
-$$
+$l_c = 22.22 \text{ cm}$
